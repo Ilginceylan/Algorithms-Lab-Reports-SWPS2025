@@ -32,7 +32,7 @@ Rather than isolated assignments, this collection spans a wide spectrum of funda
 
 ---
 
-## 🛠️ Tech Stack & Environment
+## Tech Stack & Environment
 * **Language:** C (C99/C11 standards)
 * **Tools & Utilities:** GCC compiler, GDB debugger, VS Code
 * **Version Control:** Git & GitHub
